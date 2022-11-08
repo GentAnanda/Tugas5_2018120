@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bab5_2018120</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">KopSu adalah minuman segar sekali lejat dan bergiji.</string>
+    <string name="ingredients">Kopi dan Susu</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Cenil">Rp.1.000.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Minuman">
+        <item>Ice Coffe Milk</item>
+        <item>Ice Chocolate</item>
+        <item>Matcha Latte</item>
+    </string-array>
+    <string-array name="Star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>1.500.000</item>
+        <item>3.000.000</item>
+        <item>5.000.000</item>
+    </string-array>
+</resources>
